@@ -1,0 +1,8 @@
+error.log
+*.log
+dir/
+all dir files
+/dir/
+only outer dir
+static/dir
+history.txt
